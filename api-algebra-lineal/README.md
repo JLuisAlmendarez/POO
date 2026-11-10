@@ -2,7 +2,7 @@
 
 Librería de álgebra lineal en Java: vectores, matrices de hasta 3×3 y transformaciones lineales. La hicimos como proyecto final de Programación Orientada a Objetos.
 
-> **Nota:** la carpeta original se perdió. Este código se reconstruyó a partir de los fragmentos que nos mandamos por Teams mientras lo hacíamos. Las clases, los nombres, la estructura y la mayoría del código son los originales. Lo que se cambió está en [Reconstrucción](#reconstrucción).
+> **Nota:** la carpeta original se perdió. Este código se reconstruyó a partir de los fragmentos que nos mandamos por Teams mientras lo hacíamos. Las clases, los nombres, la estructura y la mayoría del código son los originales.
 
 ## Alcance
 
